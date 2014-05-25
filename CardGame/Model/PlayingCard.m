@@ -6,6 +6,7 @@
 //  Copyright (c) 2014 Jonathan Wong. All rights reserved.
 // 4:00 CHANGE BY JW
 // Felix add
+// Jacky add
 
 #import "PlayingCard.h"
 
