@@ -16,6 +16,7 @@
 {
     NSArray *rankStrings = [PlayingCard rankStrings];
     return [rankStrings[self.rank] stringByAppendingString:self.suit];
+    //NSLog(dkjldsf");
 }
 
 @synthesize suit=_suit;
